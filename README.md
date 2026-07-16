@@ -1,78 +1,201 @@
 <div align="center">
-  <!-- Avatar animé -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ4eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LfpfL4wG7v1g1q8k0q/giphy.gif" alt="Développeur en action" width="200" />
-  
-  <h1>👋 Salut, je suis Gloiredev</h1>
-  <h3>Développeur Full Stack | Passionné de Code Propre</h3>
-  
-  <p>🚀 Transformant des idées complexes en solutions élégantes et performantes.</p>
-  <p>💻 Spécialisé en <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b> et <b>Java</b>.</p>
-</div>
-
----
-
-### 🛠️ Ma Stack Technologique
-
-<div align="center">
-  <h4>Langages & Technologies</h4>
-  <p>
-    <!-- JavaScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-    <!-- TypeScript -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-    <!-- Python -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-    <!-- Java -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
-    <!-- HTML5 -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-    <!-- CSS3 -->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  </p>
-  
-  <h4>Outils & Frameworks (Ajoute ceux que tu utilises)</h4>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" alt="Spring" />
-  </p>
-</div>
-
----
-
-### 📊 Mes Statistiques & Activité
-
-<div align="center">
-  <!-- Statistiques GitHub (remplace 'Gloiredev' si besoin, mais c'est déjà bon) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Gloiredev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats" />
-  
-  <!-- Top Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloiredev&layout=compact&theme=radical&hide_border=true" alt="Langages" />
+  <!-- Bannière d'intro animée avec ton nom -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Gloire%20ZOLA&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Future%20Ing%C3%A9nieur%20Logiciel%20%C2%B7%20Software%20Architect%20in%20Training&descAlignY=60&descSize=20"/>
   
   <br>
   
-  <!-- Graphique d'activité -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gloiredev&bg_color=161b22&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activité" />
+  <!-- Effet d'écriture automatique (Typing Effect) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=500&color=3B82F6&center=true&vCenter=true&width=1000&lines=Hello+World,+I'm+Gloire+ZOLA;Future+Software+Engineer;Passionate+About+Clean+Code;Building+Scalable+Systems;From+Concept+to+Deployment;Always+Learning+•+Always+Evolving"/>
+  
+  <br>
+  
+  <!-- Statistiques de vues et followers -->
+  <img src="https://komarev.com/ghpvc/?username=Gloiredev&label=Profile+Views&style=for-the-badge&color=3B82F6"/>
+  <img src="https://img.shields.io/github/followers/Gloiredev?style=for-the-badge&color=3B82F6"/>
+  
+  <br><br>
+  
+  <!-- Boutons de contact (À PERSONNALISER) -->
+  <a href="mailto:gloireatukuzwe@proton.me">
+    <img src="https://img.shields.io/badge/Gmail-DA4435?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
 
-### 🚀 Ce que je fais en ce moment
+# 👨‍💻 About Me: The Engineer in the Making
 
-- 🔭 **Projet actuel** : [Décris ton dernier projet ici, ex: Une API REST en Spring Boot]
-- 🌱 **En apprentissage** : [Ex: Les architectures microservices ou l'IA avec Python]
-- 💡 **Idée du moment** : [Ex: Créer une extension Chrome pour les devs]
-- 📫 **Me contacter** : [ton-email@exemple.com](mailto:ton-email@exemple.com) | [LinkedIn](https://linkedin.com/in/tonprofil)
+```java
+public class GloireZola {
+    private String name = "Gloire ZOLA";
+    private String title = "Aspiring Software Engineer";
+    private String location = "République Démocratique du Congo 🇨🇩";
+    private List<String> passions = Arrays.asList(
+        "System Architecture",
+        "Algorithms & Data Structures",
+        "Clean Code Principles",
+        "Scalable Applications"
+    );
+    
+    public String mission() {
+        return "Concevoir des logiciels robustes, évolutifs et impactants.";
+    }
+}
+```
+
+Je suis **Gloire ZOLA**, un développeur passionné en devenir, actuellement en route pour devenir **Ingénieur Logiciel**. Mon objectif n'est pas seulement d'écrire du code, mais de concevoir des architectures logicielles solides, optimisées et maintenables.
+
+🎯 **Ma Vision** : Transformer des problèmes complexes en solutions logicielles élégantes et performantes.
+
+🚀 **Mon Focus Actuel** : Maîtriser les principes d'ingénierie logicielle (Design Patterns, SOLID, Tests Unitaires) tout en approfondissant mes compétences en développement Full Stack.
+
+---
+
+# 🛠️ Tech Stack & Engineering Tools
+
+### 💻 Core Languages (JS, TS, Python, Java)
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cpp,c"/>
+</p>
+
+### 🌐 Web & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs"/>
+</p>
+
+### 📊 Data & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,springboot,flask,fastapi,sql,postgresql,mysql,mongodb"/>
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,intellij,aws,azure"/>
+</p>
+
+---
+
+# 🏗️ Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏗️ Architecture & Backend</h3>
+      <p><strong>Projet : Système de Gestion Évolutive</strong></p>
+      <p>Conception d'une API REST robuste avec architecture en couches.</p>
+      <ul>
+        <li>✅ Design Patterns (Singleton, Factory)</li>
+        <li>✅ Gestion des erreurs et Logging</li>
+        <li>✅ Tests Unitaires (JUnit/Jest)</li>
+        <li>✅ Documentation Swagger/OpenAPI</li>
+      </ul>
+      <code>Java/Spring</code> <code>Python/FastAPI</code> <code>Docker</code>
+    </td>
+    <td width="50%">
+      <h3>🎨 Frontend & UX</h3>
+      <p><strong>Projet : Dashboard Analytique Interactif</strong></p>
+      <p>Interface utilisateur réactive pour la visualisation de données en temps réel.</p>
+      <ul>
+        <li>✅ Composants réutilisables (React/TypeScript)</li>
+        <li>✅ Optimisation des performances</li>
+        <li>✅ Accessibilité (A11y)</li>
+        <li>✅ Intégration avec API backend</li>
+      </ul>
+      <code>React</code> <code>TypeScript</code> <code>TailwindCSS</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🤖 Intelligence Artificielle & Data</h3>
+      <p><strong>Projet : Analyseur de Données Intelligent</strong></p>
+      <p>Outil d'analyse prédictive et de visualisation de données.</p>
+      <ul>
+        <li>✅ Nettoyage de données (Pandas/NumPy)</li>
+        <li>✅ Modélisation simple (Scikit-Learn)</li>
+        <li>✅ Visualisation interactive</li>
+      </ul>
+      <code>Python</code> <code>Matplotlib</code> <code>Streamlit</code>
+    </td>
+    <td width="50%">
+      <h3>🔒 Sécurité & DevOps</h3>
+      <p><strong>Projet : Pipeline CI/CD Automatisé</strong></p>
+      <p>Automatisation des tests et du déploiement pour garantir la qualité.</p>
+      <ul>
+        <li>✅ Intégration Continue (GitHub Actions)</li>
+        <li>✅ Déploiement Continu</li>
+        <li>✅ Conteneurisation (Docker)</li>
+      </ul>
+      <code>YAML</code> <code>Docker</code> <code>Linux</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+# 📈 Engineering Progress & Analytics
+
+<div align="center">
+  <!-- Statistiques Générales -->
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Gloiredev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  
+  <!-- Top Langages -->
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloiredev&layout=compact&theme=tokyonight&hide_border=true"/>
+  
+  <br>
+  
+  <!-- Streak (Série de contributions) -->
+  <img src="https://streak-stats.demolab.com?user=Gloiredev&theme=tokyonight&hide_border=true"/>
+  
+  <br>
+  
+  <!-- Graphique d'Activité -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gloiredev&theme=react&hide_border=true"/>
+</div>
+
+---
+
+# 🎯 Roadmap vers l'Ingénierie Logicielle (2025-2026)
+
+| Statut | Objectif Ingénierie | Détails |
+|:------:|---------------------|---------|
+| ✅ | **Fondations Solides** | Maîtrise de Java, Python, C++ et des structures de données |
+| 🔄 | **Architecture Logicielle** | Apprentissage des Design Patterns et principes SOLID |
+| 🔄 | **Systèmes Distribués** | Compréhension des microservices et APIs REST |
+| 🔄 | **Qualité du Code** | Tests unitaires, intégration continue (CI/CD) |
+| ⏳ | **Cloud & DevOps** | Deployment sur AWS/Azure et conteneurisation (Docker/K8s) |
+| ⏳ | **Projet Capstone** | Conception et déploiement d'une application Full Stack complète |
+| ⏳ | **Contribution Open Source** | Participation active à des projets communautaires |
+
+---
+
+# 📚 En Apprentissage Continu
+
+- ⚙️ **Architecture** : Microservices, Event-Driven Architecture
+- 🧠 **Algorithmes** : Complexité, Structures de données avancées
+- ☁️ **Cloud** : AWS Solutions Architect, Azure Fundamentals
+- 🛡️ **Sécurité** : OWASP Top 10, Cryptographie de base
+- 📊 **Data** : SQL Avancé, NoSQL, Big Data intro
 
 ---
 
 <div align="center">
-  <h3>🤝 Parlons de vos projets !</h3>
-  <p>Je suis toujours ouvert aux collaborations et aux défis techniques.</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z5eGZ4eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eHl5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" alt="Handshake" />
+  <h3>🤝 Connectons-nous pour Innover</h3>
+  <p>Je suis toujours ouvert aux discussions sur l'architecture logicielle, les nouveaux projets et les opportunités de collaboration.</p>
+  
+  <a href="mailto:ton.email@exemple.com">
+    <img src="https://img.shields.io/badge/Email-DA4435?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/tonprofil">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Gloiredev">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=bottom&height=100&color=gradient&animation=fadeIn"/>
+  <p><em>Construit avec ❤️ et beaucoup de ☕ par <b>Gloire ZOLA</b></em></p>
 </div>
-
-<p align="center">
-  <em>Fait avec ❤️ et beaucoup de ☕ par <b>Gloiredev</b></em>
-</p>
