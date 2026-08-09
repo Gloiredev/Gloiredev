@@ -10,7 +10,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Gloiredev &label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
-<img src="https://img.shields.io/github/followers/Gloirdev?style=for-the-badge&logo=github&color=2563eb"/>
+<img src="https://img.shields.io/github/followers/Gloiredev ?style=for-the-badge&logo=github&color=2563eb"/>
 
 <img src="https://img.shields.io/github/stars/Gloiredev ?style=for-the-badge&logo=github&color=facc15"/>
 
