@@ -923,7 +923,7 @@ WELCOME...
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Gloirdev&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Gloiredev &theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=4"/>
 
 </p>
 
@@ -933,7 +933,7 @@ WELCOME...
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gloirdev&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gloiredev &theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -943,7 +943,7 @@ WELCOME...
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Gloirdev/Gloirdev/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Gloirdev/Gloiredev/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -954,10 +954,10 @@ WELCOME...
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Gloirdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=Gloiredev &show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloirdev&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloiredev &layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -1022,7 +1022,7 @@ Stable
 
 <p align="center">
 
-<a href="https://github.com/Gloirdev">
+<a href="https://github.com/Gloiredev">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
