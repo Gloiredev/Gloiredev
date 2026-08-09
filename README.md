@@ -8,11 +8,11 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Gloirdev&label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
+<img src="https://komarev.com/ghpvc/?username=Gloiredev &label=PROFILE+VIEWS&style=for-the-badge&color=0ea5e9"/>
 
 <img src="https://img.shields.io/github/followers/Gloirdev?style=for-the-badge&logo=github&color=2563eb"/>
 
-<img src="https://img.shields.io/github/stars/Gloirdev?style=for-the-badge&logo=github&color=facc15"/>
+<img src="https://img.shields.io/github/stars/Gloiredev ?style=for-the-badge&logo=github&color=facc15"/>
 
 <img src="https://img.shields.io/badge/Open%20Source-Lover-38BDF8?style=for-the-badge"/>
 
@@ -173,15 +173,15 @@ Current Learning:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloirdev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gloiredev &show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloirdev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gloiredev &layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gloirdev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Gloiredev &theme=tokyonight&hide_border=true"/>
 
 </p>
 
